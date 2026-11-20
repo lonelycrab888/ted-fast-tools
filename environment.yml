@@ -1,4 +1,4 @@
-name: tes-env
+name: ted-fast-env
 channels:
   - conda-forge
   - nodefaults
