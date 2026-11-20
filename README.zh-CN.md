@@ -26,7 +26,7 @@ cd ted-fast-tools
 
 ```bash
 conda env create -f environment.yml
-conda activate tes-env
+conda activate ted-fast-env
 python -m pip install -r env/requirements-online.txt
 python -m pip check
 ```
