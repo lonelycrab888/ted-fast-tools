@@ -1,0 +1,62 @@
+{
+  "inputs": 2349,
+  "same_order_and_models_per_gpu": true,
+  "gpu_uuids": {
+    "6": "GPU-f0f99858-2549-2203-c251-f1aa26627ebe",
+    "7": "GPU-b6bbe275-cbf3-6d9d-5b61-2b12813f171b"
+  },
+  "structures_per_gpu": {
+    "6": 1174,
+    "7": 1175
+  },
+  "configuration_note": "The variant and output directory below use the release naming. Commit 281b3dc preserves the original command.",
+  "configuration": [
+    "run_fast.py",
+    "-i",
+    "/home/zhr/workspace/biooseek_motif_data/TED_fast/benchmark/full-input",
+    "-o",
+    "runs/full-dual-ted-fast/run",
+    "--gpus",
+    "6",
+    "7",
+    "--variant",
+    "ted-fast",
+    "--structures-per-gpu",
+    "1",
+    "--overlap",
+    "--unidoc-backend",
+    "fast",
+    "--unidoc-batch-size",
+    "32",
+    "--unidoc-workers",
+    "4"
+  ],
+  "baseline_source": "/home/zhr/workspace/biooseek_motif_data/BenchMark/HumanMotifbench/datasets/plddt70_v1_tes_supplement/status.json",
+  "original_wall_seconds": 12588.46,
+  "new_inference_through_consensus_seconds": 1259.4581982679665,
+  "new_export_and_verification_seconds": 22.711939334869385,
+  "new_end_to_end_wall_seconds": 1282.170137602836,
+  "same_gpu_end_to_end_speedup": 9.818088591218922,
+  "seconds_saved": 11306.289862397163,
+  "percent_wall_time_reduction": 89.81471810211228,
+  "tenfold_threshold_seconds": 1258.846,
+  "tenfold_reached": false,
+  "pipeline_internal_seconds": 1259.3622161205858,
+  "export_validation_internal_seconds": 22.653145510703325,
+  "historical_benchmark_stage_sum_seconds": 1282.0153616312891,
+  "stage_sum_speedup": 9.8192739157056,
+  "domain_counts": {
+    "no_domain": 429,
+    "with_domain": 1920,
+    "medium": 7635,
+    "high": 5623
+  },
+  "identical_domain_pdb_sha256": 13258,
+  "identical_table_rows": {
+    "chopping_merizo.txt": 2349,
+    "chopping_chainsaw.txt": 2349,
+    "chopping_unidoc.txt": 2349,
+    "consensus.tsv": 2349
+  },
+  "finished_utc": "2026-11-19T20:24:47.120490+00:00"
+}

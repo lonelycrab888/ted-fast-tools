@@ -1,0 +1,36 @@
+{
+  "wall_seconds": 1259.3622161205858,
+  "inputs": 2349,
+  "gpus": {
+    "6": "GPU-f0f99858-2549-2203-c251-f1aa26627ebe",
+    "7": "GPU-b6bbe275-cbf3-6d9d-5b61-2b12813f171b"
+  },
+  "stages_seconds": {
+    "6": {
+      "merizo": 1174.0146058034152,
+      "unidoc": 190.803299266845,
+      "unidoc_batches": 37,
+      "unidoc_first_submit_seconds": 47.59808534197509,
+      "unidoc_finished_seconds": 1174.272494861856,
+      "chainsaw": 853.9012834969908,
+      "consensus": 17.771772123873234
+    },
+    "7": {
+      "merizo": 1240.3751701693982,
+      "unidoc": 191.27340555004776,
+      "unidoc_batches": 37,
+      "unidoc_first_submit_seconds": 52.104487204924226,
+      "unidoc_finished_seconds": 1241.057594558224,
+      "chainsaw": 867.929544268176,
+      "consensus": 18.274813253432512
+    }
+  },
+  "unidoc_workers_per_gpu": 4,
+  "unidoc_backend": "fast",
+  "structure_workers_per_gpu": 1,
+  "unidoc_batch_size": 32,
+  "packed_confidence": false,
+  "profile_enabled": false,
+  "variant": "ted-fast",
+  "overlap_gpu_models": true
+}

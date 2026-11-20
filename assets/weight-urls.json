@@ -1,0 +1,7 @@
+{
+  "modules/chainsaw/upstream/saved_models/secondary_structure_epoch17/version_2/weights.pt": "https://raw.githubusercontent.com/psipred/ted-tools/6041723c28f1782c2cbb1a4edb9b3523c0a1739c/ted_consensus_1.0/programs/chainsaw/saved_models/secondary_structure_epoch17/version_2/weights.pt",
+  "modules/chainsaw/upstream/saved_models/ss_c_base_no_excl/version_2/epoch_11/weights.pt": "https://raw.githubusercontent.com/psipred/ted-tools/6041723c28f1782c2cbb1a4edb9b3523c0a1739c/ted_consensus_1.0/programs/chainsaw/saved_models/ss_c_base_no_excl/version_2/epoch_11/weights.pt",
+  "modules/merizo/upstream/weights/weights_part_0.pt": "https://raw.githubusercontent.com/psipred/Merizo/41d12fb84e6e8fdb586c2c859d12161dc7bb5bfd/weights/weights_part_0.pt",
+  "modules/merizo/upstream/weights/weights_part_1.pt": "https://raw.githubusercontent.com/psipred/Merizo/41d12fb84e6e8fdb586c2c859d12161dc7bb5bfd/weights/weights_part_1.pt",
+  "modules/merizo/upstream/weights/weights_part_2.pt": "https://raw.githubusercontent.com/psipred/Merizo/41d12fb84e6e8fdb586c2c859d12161dc7bb5bfd/weights/weights_part_2.pt"
+}

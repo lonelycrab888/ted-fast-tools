@@ -1,0 +1,52 @@
+{
+  "source_commit": "e9b8d5d89fa5a52e23503b9dddc39089f33c2e85",
+  "tested_commit": "cd8340b67364c460adcd381a01c8b4efad556200",
+  "unique_structures": 72,
+  "sets": [
+    48,
+    24
+  ],
+  "exports": {
+    "high": 85,
+    "medium": 148,
+    "with_domain": 41,
+    "no_domain": 31
+  },
+  "tables": {
+    "chopping_merizo.txt": {
+      "reference": 72,
+      "candidate": 72,
+      "identical": 18,
+      "same_boundaries": 70,
+      "same_score": 18,
+      "max_score_delta": 0.00021999999999999797
+    },
+    "chopping_chainsaw.txt": {
+      "reference": 72,
+      "candidate": 72,
+      "identical": 65,
+      "same_boundaries": 72,
+      "same_score": 65,
+      "max_score_delta": 0.00020000000000000573
+    },
+    "chopping_unidoc.txt": {
+      "reference": 72,
+      "candidate": 72,
+      "identical": 72,
+      "same_boundaries": 72,
+      "same_score": 72,
+      "max_score_delta": 0
+    },
+    "consensus.tsv": {
+      "reference": 72,
+      "candidate": 72,
+      "identical": 70,
+      "same_high_medium": 72
+    },
+    "domain_pdb": {
+      "reference": 233,
+      "candidate": 233,
+      "identical": 233
+    }
+  }
+}

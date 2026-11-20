@@ -1,0 +1,2 @@
+--find-links https://download.pytorch.org/whl/cu118/torch/
+-r requirements-linux.txt

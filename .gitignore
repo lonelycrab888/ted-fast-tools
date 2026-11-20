@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.so
+*.o
+/.ted-build.*
+/runs/
+/assets/*.tar*
+*.pt
+/assets.zip
+/assets/*.zip
+/modules/chainsaw/upstream/stride/stride
+/modules/unidoc/upstream/bin/stride
+/modules/unidoc/upstream/bin/UniDoc_structure

@@ -1,0 +1,36 @@
+{
+  "scope": "Packaging and relocation regression, distinct from historical full GPU benchmark",
+  "independent_conda_env": true,
+  "packages_pinned": 34,
+  "python": "3.10.22",
+  "torch": "2.0.1+cu118",
+  "clean_git_clone": true,
+  "clean_clone_path_contains_spaces": true,
+  "assets_restored_verified": 8,
+  "native_libraries_built": 2,
+  "example_inputs": 3,
+  "gpus": [
+    "6",
+    "7"
+  ],
+  "standalone_methods_verified": [
+    "merizo",
+    "chainsaw",
+    "unidoc"
+  ],
+  "unidoc_cpu_only_minimal_env": true,
+  "whole_chain_matches_original_wrapper": true,
+  "integrated_tables_matching": 4,
+  "integrated_domain_hashes_matching": 10,
+  "export_counts": {
+    "high": 4,
+    "medium": 6,
+    "with_domain": 2,
+    "no_domain": 1
+  },
+  "reference_backend_tables_matching": 4,
+  "historical_shard_members_and_order_verified": [
+    1174,
+    1175
+  ]
+}

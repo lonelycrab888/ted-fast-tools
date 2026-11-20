@@ -1,0 +1,22 @@
+{
+  "chopping_merizo.txt": {
+    "batches": 74,
+    "unique_ids": 2349,
+    "rows_equal_to_benchmark_reference": 2349
+  },
+  "chopping_chainsaw.txt": {
+    "batches": 74,
+    "unique_ids": 2349,
+    "rows_equal_to_benchmark_reference": 2349
+  },
+  "chopping_unidoc.txt": {
+    "batches": 74,
+    "unique_ids": 2349,
+    "rows_equal_to_benchmark_reference": 2349
+  },
+  "consensus.tsv": {
+    "batches": 74,
+    "unique_ids": 2349,
+    "rows_equal_to_benchmark_reference": 2349
+  }
+}

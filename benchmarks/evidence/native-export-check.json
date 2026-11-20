@@ -1,0 +1,22 @@
+{
+  "historical_export_source": "/home/zhr/workspace/biooseek_motif_data/BenchMark/HumanMotifbench/datasets/plddt70_v1_tes_supplement/provenance/run_supplement.py",
+  "historical_export_source_sha256": "689bf4ccb60b45507add102d2ec6830c3109e19fd0be9b44b20d93f65c5a3057",
+  "input_adapter_seconds": 0.055415503680706024,
+  "original_export_and_validation_seconds": 24.035083601251245,
+  "full_postprocessing_stage_seconds": 24.09049910493195,
+  "same_export_stage_sum_seconds": 1283.5486973728985,
+  "same_export_stage_sum_speedup": 9.807543746306948,
+  "same_export_stage_sum_tenfold": false,
+  "identical_original_summary_and_validation": true,
+  "identical_manifest_sha256": {
+    "domains.tsv": true,
+    "structures.tsv": true,
+    "failed.tsv": true,
+    "no_domain.tsv": true,
+    "method_errors.tsv": true,
+    "summary.json": true
+  },
+  "exported_pdbs_verified": 13258,
+  "failed_structures": 0,
+  "structures_with_method_errors": 0
+}

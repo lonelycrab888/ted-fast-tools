@@ -1,0 +1,10 @@
+{
+  "modules/chainsaw/upstream/saved_models/secondary_structure_epoch17/version_2/weights.pt": "6e8b9459f66bf2af04f652083e8b1991bf870f368f424691ae48a8445c09ba37",
+  "modules/chainsaw/upstream/saved_models/ss_c_base_no_excl/version_2/epoch_11/weights.pt": "1fca05a2a64a80990e7dfb6013c26fe00c53fd78b39d85ab3c9973939781b183",
+  "modules/chainsaw/upstream/stride/stride": "85a1ed11a95ecd4e665d78d8fe7fe28d937c8138069c473268c8022042b06900",
+  "modules/merizo/upstream/weights/weights_part_0.pt": "8b90ad1967c3e445aca7ed3d53135190ceaf8e100d68afd1543e5e8d28547151",
+  "modules/merizo/upstream/weights/weights_part_1.pt": "644f711b9573b44fc25a0bc0631ee9ab43f7fbd796db0a382298755057a2fa38",
+  "modules/merizo/upstream/weights/weights_part_2.pt": "ddafe5fa5dfa729eb8715757004d2d3e4e9798f96ea43c689e799ef91af8c2b8",
+  "modules/unidoc/upstream/bin/UniDoc_structure": "19ef389189df9131b305381682172ecf2e52e6550e9b4d18064f98711d29142f",
+  "modules/unidoc/upstream/bin/stride": "d81f444fff9c341be2d4977b3065600a8425edb5676bf1b03addfd915ae3bea6"
+}

@@ -1,0 +1,30 @@
+{
+  "chopping_merizo.txt": {
+    "rows": 2349,
+    "rows_identical": 2349,
+    "geometry_identical": 2349,
+    "different_rows": [],
+    "different_geometry": []
+  },
+  "chopping_chainsaw.txt": {
+    "rows": 2349,
+    "rows_identical": 2349,
+    "geometry_identical": 2349,
+    "different_rows": [],
+    "different_geometry": []
+  },
+  "chopping_unidoc.txt": {
+    "rows": 2349,
+    "rows_identical": 2349,
+    "geometry_identical": 2349,
+    "different_rows": [],
+    "different_geometry": []
+  },
+  "consensus.tsv": {
+    "rows": 2349,
+    "rows_identical": 2349,
+    "geometry_identical": 2349,
+    "different_rows": [],
+    "different_geometry": []
+  }
+}

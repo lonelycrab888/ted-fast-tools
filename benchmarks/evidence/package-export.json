@@ -1,0 +1,11 @@
+{
+  "inputs": 2349,
+  "same_domain_pdb_sha256": 13258,
+  "export": {
+    "high": 5623,
+    "medium": 7635,
+    "with_domain": 1920,
+    "no_domain": 429
+  },
+  "source": "Archived ted-fast consensus; regenerated with packaged exporter"
+}
