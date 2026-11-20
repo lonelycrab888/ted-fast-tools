@@ -26,7 +26,7 @@ If you received the source as a ZIP, extract it and open the directory containin
 
 ```bash
 conda env create -f environment.yml
-conda activate tes-env
+conda activate ted-fast-env
 python -m pip install -r env/requirements-online.txt
 python -m pip check
 ```
